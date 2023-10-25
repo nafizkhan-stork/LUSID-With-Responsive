@@ -1,0 +1,464 @@
+@media(min-width:1400px){
+    .contuct_from {
+        width: 65%;
+    }
+    .phone {
+        width: 33%;
+    }
+    .feature_one_content span {
+        margin: 0;
+    }
+}
+@media(max-width:1399px){
+    .phone img {
+        width: 100%;
+    }
+    .phone {
+        right: 127px;
+        width: 33%;
+    }
+    .second_phone {
+        text-align: center;
+    }
+    .second_phone img {
+        width: 68%;
+    }
+    .customize_phone img {
+        width: 90%;
+    }
+    .feature_one_content span {
+        margin: 0;
+    }
+    .customize_phone {
+        text-align: center;
+    }
+    .down_view_content {
+        text-align: center;
+    }
+    .contuct_from {
+        padding: 40px;
+        width: 60%;
+    }
+    .contuct_section {
+        padding-bottom: 230px;
+    }
+}
+@media(max-width:1199px){
+    .feature_item h2 {
+        margin-bottom: 10px;
+        font-size: 30px;
+    }
+    .feature_item p {
+        font-size: 16px;
+        margin-bottom: 20px;
+    }
+    .second_phone img {
+        width: 100%;
+    }
+    .customize_phone_parent {
+        display: flex;
+        align-items: center;
+    }
+    .customize_phone img {
+        width: 100%;
+    }
+    .download_content h1 {
+        font-size: 37px;
+    }
+    .down_view_content {
+        text-align: center;
+    }
+    .contuct_section {
+        padding-bottom: 230px;
+    }
+    .feature_one_content span {
+        margin: 0;
+    }
+    .contuct_from {
+        padding: 40px;
+        width: 70%;
+    }
+    footer {
+        padding: 35px 0;
+    }
+}
+@media(max-width:991px){
+    .nav-item {
+        margin: 0;
+        text-align: center;
+    }
+    .nav-link {
+       display: inline;
+    }
+    .banner h1 {
+        font-size: 35px;
+        margin: 15px 0px 20px;
+    }
+    .feature_item h2 {
+        font-size: 22px;
+    }
+    .phone {
+        width: 42%;
+    }
+    .second_phone {
+        display: flex;
+        align-items: center;
+        height: 100%;
+    }
+    .second_phone img {
+        width: 100%;
+    }
+    .feature_one_content h1 {
+        margin-bottom: 11px;
+        font-size: 27px;
+    }
+    .feature_one_content h6 {
+        margin-top: 20px;
+        letter-spacing: 2px;
+        font-size: 15px;
+    }
+    .feature_one_content span {
+        margin: 0;
+    }
+    .feature_one_content p {
+        font-size: 18px;
+    }
+    .feature_icon {
+       margin: 0;
+    }
+    .icon_parent h4 {
+        font-size: 19px;
+    }
+    .customize_content h5 {
+        font-size: 20px;
+        margin: 0;
+    }
+    .customize_phone {
+        display: flex;
+        height: 100%;
+        align-items: center;
+    }
+    .customize_phone img {
+        width: 100%;
+    }
+    .customize_content h1 {
+        margin: 10px 0;
+    }
+    .download_section {
+        padding: 30px 0;
+    }
+    .download_content h1 {
+        font-size: 30px;
+    }
+    .download_content span {
+        font-size: 19px;
+    }
+    .down_view_content {
+        text-align: center;
+    }
+    .btn_d_now{
+        margin-bottom: 10px;
+    }
+    .pricing_box {
+        margin-bottom: 20px;
+    }
+    .contuct_from {
+        padding: 30px;
+        width: 65%;
+    }
+    .contuct_section {
+        padding-bottom: 200px;
+    }
+    footer {
+        padding: 30px 0;
+    }
+}
+@media(max-width:767px){
+    .banner h4 {
+        font-size: 12px;
+    }
+    .navbar-brand{
+        width: 90px;
+    }
+    .nav-item{
+        margin: 0;
+    }
+    .phone{
+        display: none;
+    }
+    .nav-link{
+        display: inline-block;
+        padding: 5px 0 !important;
+        font-size: 18px;
+    }
+    .navbar-nav{
+        text-align: center;
+    }
+    .banner{
+        text-align: center;
+        padding-top: 25px;
+        padding-bottom: 40px;
+    }
+    .banner h1 {
+        font-size: 32px;
+        margin: 20px 0px 20px;
+    }
+    .banner_img_phone_hiden{
+        display: inherit;
+        margin-bottom: 25px;
+    }
+    .banner_img_phone_hiden img{
+        width: 62%;
+    }
+    .feature_item h2 {
+        font-size: 34px;
+        margin: 13px 0px;
+    }
+    .feature_item p {
+        margin-bottom: 15px;
+    }
+    .second_phone {
+        text-align: center;
+    }
+    .second_phone img {
+        width: 80%;
+        margin: auto;
+    }
+    .feature_one_content {
+        text-align: center;
+    }
+    .feature_one_content h6 {
+       margin-top: 10px;
+    }
+    .customize_section {
+        padding: 0;
+    }
+    .customize_content h5 {
+        margin-top: 40px;
+    }
+    .customize_content {
+        text-align: center;
+    }
+    .customize_section span {
+        margin: auto;
+    }
+    .customize_phone {
+        text-align: center;
+    }
+    .customize_phone img {
+        width: 100%;
+    }
+    .feature_one_content span {
+        margin: auto !important;
+    }
+    .download_content h1 {
+        font-size: 35px;
+    }
+    .download_content span {
+        font-size: 21px;
+    }
+    .btn_d_now{
+        margin: 0;
+    }
+    .down_view_content {
+        text-align: center;
+        margin-top: 23px;
+    }
+    .pricing_item_box {
+        margin-bottom: 20px;
+    }
+    .contuct_info p {
+        font-size: 15px;
+    }
+    .contuct_from {
+        padding: 30px;
+        width: 74%;
+    }
+    footer {
+        padding: 30px 0;
+    }
+
+}
+
+@media(max-width:575px){
+    .banner h4 {
+        font-size: 12px;
+    }
+    .navbar-brand{
+        width: 90px;
+    }
+    .nav-item{
+        margin: 0;
+    }
+    .phone{
+        display: none;
+    }
+    .nav-link{
+        display: inline-block;
+        padding: 5px 0 !important;
+        font-size: 18px;
+    }
+    .navbar-nav{
+        text-align: center;
+    }
+    .banner{
+        text-align: center;
+        padding-top: 25px;
+        padding-bottom: 40px;
+    }
+    .banner h1 {
+        font-size: 32px;
+        margin: 20px 0px 20px;
+    }
+    .banner_img_phone_hiden{
+        display: inherit;
+        margin-bottom: 25px;
+    }
+    .banner_img_phone_hiden img{
+        width: 62%;
+    }
+    .customize_phone {
+        text-align: center;
+        padding: 23px 0;
+    }
+    .customize_phone img {
+        width: 83%;
+        margin: auto;
+    }
+    
+    .second_phone img {
+        width: 60%;
+    }
+    .btn_download {
+        font-size: 15px;
+        padding: 5px 8px !important;
+    }
+    .btn_view{
+        font-size: 15px;
+        padding: 5px 8px !important; 
+    }
+    .features {
+        padding: 50px 0;
+    }
+    .feature_item h2 {
+        font-size: 32px;
+        margin-top: 12px;
+        margin-bottom: 15px;
+    }
+    .feature_one_content{
+        text-align: center;
+    }
+    .feature_one_content p {
+        font-size: 17px;
+        margin-bottom: 20px;
+    }
+    .icon_parent {
+        align-items: center;
+        margin-bottom: 13px;
+        text-align: left;
+    }
+    .icon_parent h4 {
+        font-size: 18px;
+    }
+    .feature_icon {
+    margin-bottom: 0;
+    }
+    .customize_content h5{
+        margin-top: 0;
+    }
+    .customize_content{
+        text-align: center;
+    }
+    .customize_content span{
+        margin: auto;
+    }
+    .customize_content h1{
+        margin-top: 10px;
+        margin-bottom: 12px;
+    }
+    .customize_content p{
+        margin-top: 12px;
+    }
+    .feature_one_content h6 {
+        margin-top: 20px;
+    }
+    .feature_one_content span{
+        margin: auto;
+        margin-bottom: 10px !important;
+    }  
+    .feature_item {
+        margin-top: 13px;
+        margin-bottom: 15px;
+    }
+    .customize_section {
+        padding-top: 40px;
+    }
+    .second_phone img {
+        width: 80%;
+        margin: auto;
+    }
+    .second_phone {
+        text-align: center;
+    }
+    .pricing_item_box{
+        width: 80%;
+        margin: auto;
+        margin-bottom: 10px;
+    }
+    .pricing_heding p {
+        font-size: 20px;
+    }
+    .pricing_heding {
+        padding-bottom: 0;
+    }
+    .client p {
+        font-size: 19px;
+    }
+    .pricing_heding h1 {
+        font-size: 32px;
+        padding: 8px 0;
+    }
+    .download_content span {
+        font-size: 25px;
+        margin: 0;
+    }
+    .download_content {
+        justify-content: center;
+    }
+    .download_content h1 {
+        font-size: 30px;
+    }
+    .down_view_content {
+        text-align: center;
+        padding-top: 15px;
+    }
+    .download_section {
+        padding: 34px 0;
+    }
+    .contuct_section {
+        padding-bottom: 270px;
+    }
+    .contuct_from form input {
+        padding: 3px 5px;
+    }
+    .contuct_from {
+        width: 83%;
+        padding: 10px;
+    }
+    .contuct_from form textarea {
+        padding: 3px 5px;
+    }
+    .contuct_from form input[type="submit"] {
+        padding: 3px 5px;
+        font-size: 12px;
+    }
+    footer {
+        padding: 26px 0;
+    }
+    .footer_list ul li a {
+        font-size: 15px;
+    }
+    .footer_content p {
+        font-size: 15px;
+    }
+}
